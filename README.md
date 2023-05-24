@@ -20,8 +20,8 @@ Screenshot of the solution
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](http://knowledgeworkers.me/qr-code-component-main/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-solution-using-html-and-css-only-aqb_UqO6sk)
+- Live Site URL: [Add live site URL here](https://qr-code-component-main-one-ecru.vercel.app/)
 
 ### Built with
 
